@@ -88,7 +88,7 @@ An enterprise-oriented project management system designed to streamline project 
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn:** [Elias Aynekulu](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Elias Aynekulu](https://www.linkedin.com/in/eliasaynekulu/)
 
 🌐 **Portfolio:** [eliasaynekulu.versel.app](https://eliasaynekulu.versel.app/)
 
