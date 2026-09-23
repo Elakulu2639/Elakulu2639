@@ -1,18 +1,97 @@
-# 💫 About Me:
-As a software engineering student, my current activities and interests are quite diverse. I am actively working on several personal projects to enhance my programming skills, which include developing a web application using the latest frameworks and exploring new algorithms and data structures. Additionally, I am eager to collaborate with other students or professionals on open-source software projects, as I believe this would provide me with valuable practical experience, opportunities to learn from others, and a chance to contribute to the community.<br><br>In terms of areas where I am seeking guidance and mentorship, I am particularly interested in optimizing code performance, implementing secure coding practices, and navigating the software development lifecycle. Alongside my coursework, I am continuously learning new programming languages, frameworks, and technologies to broaden my skillset, with a focus on machine learning, cloud computing, and agile development methodologies.<br><br>I am always excited to share my knowledge and learn from others, so feel free to ask me about my experiences in software engineering, my personal projects, or any programming-related topics that interest you. In fact, my idea of fun is debugging complex issues in my code and finding elegant solutions to challenging problems. As I continue to grow and develop my skills, I am eager to contribute to the software development community and make a meaningful impact.
+# 👋 Hi, I'm Elias Aynekulu
 
+### Software Engineer | Full-Stack Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eliasaynekulu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:e9710092@gmail.com) 
+I'm a Software Engineer focused on building reliable, scalable, and user-focused web applications.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elakulu2639&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Elakulu2639&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elakulu2639&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I have hands-on experience developing full-stack and backend systems using **React, TypeScript, NestJS, ASP.NET Core, PostgreSQL, SQL Server, and Docker**. I've worked on business applications, REST APIs, SaaS platforms, and AI-powered systems.
+
+Currently, I'm working remotely on a **multi-tenant SaaS platform for manufacturing cost management**, integrating accounting, inventory, and production workflows. I also use modern AI-assisted development tools to accelerate development, debugging, testing, and problem-solving.
+
+### 🚀 What I Work With
+
+- Full-Stack Web Development
+- Backend & REST API Development
+- SaaS & Multi-Tenant Applications
+- Database Design & Integration
+- Authentication & Authorization
+- AI/LLM Integration
+- Docker & Application Deployment
+- AI-Assisted Development
+
+### 🛠️ Tech Stack
+
+#### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🤖 AI & Machine Learning
+
+- LLM Integration
+- AI-powered applications
+- Prompt Engineering
+- Python
+- FastAPI
+- ML.NET
+- TensorFlow
+- Pandas
+- NumPy
+
+### 📌 Featured Projects
+
+#### 🏢 Multi-Tenant Costing Management System
+A SaaS platform for manufacturing cost management that integrates accounting, inventory, and production data with tenant isolation, automated cost allocation, analytics, and financial reporting.
+
+**Stack:** NestJS, TypeScript, Prisma, PostgreSQL, React, Vite, Tailwind CSS, Docker, JWT, OAuth 2.0
+
+#### 🤖 Intelligent Assistant Chatbot for ERP
+An AI-powered ERP assistant integrating an LLM, NLP services, semantic memory, and SQL Server to support business and HR-related queries through session-aware conversations.
+
+**Stack:** React, ASP.NET Core, SQL Server, LLM
+
+#### 📊 Web-Based Project Management System
+An enterprise-oriented project management system developed for YOD Business Solution to streamline project operations and delivery.
+
+**Stack:** React, Redux, ASP.NET Core, PostgreSQL, SignalR
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: [Elias Aynekulu](YOUR_LINKEDIN_URL)
+- 📧 Email: e9710092@gmail.com
+- 🌐 Portfolio: https://eliasaynekulu.versel.app/
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Elakulu2639&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Elakulu2639&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Elakulu2639&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elakulu2639&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
