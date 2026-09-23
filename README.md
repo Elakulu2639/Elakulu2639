@@ -98,8 +98,8 @@ An enterprise-oriented project management system designed to streamline project 
 
 ## 📊 GitHub Stats
 
-![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elakulu2639&show_icons=true&theme=dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elakulu2639&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Elakulu2639&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elakulu2639&layout=compact&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elakulu2639&theme=github_dark)
