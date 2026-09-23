@@ -82,7 +82,7 @@ An enterprise-oriented project management system developed for YOD Business Solu
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: [Elias Aynekulu](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Elias Aynekulu](https://www.linkedin.com/in/eliasaynekulu/)
 - 📧 Email: e9710092@gmail.com
 - 🌐 Portfolio: https://eliasaynekulu.versel.app/
 
